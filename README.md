@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Samreen Zafar
 
-<!--
-**samreen-frontend/samreen-frontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Frontend Developer** | 💻 **HTML/CSS Expert** | 🌐 **Laravel Intern at ID Logix**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 About Me
+
+- 🔭 Currently doing an internship at **ID Logix** as a Laravel Developer  
+- 🌱 Improving my skills in **JavaScript (basics covered)** and **Laravel**  
+- 💬 Passionate about building clean and responsive user interfaces  
+- 💼 Open to **freelance projects** on platforms like Fiverr  
+- 🧠 Always eager to learn and grow in the field of web development  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5 | CSS3 | Laravel | Blade | Git | MySQL
+
+---
+
+## 📈 GitHub Stats
+
+![Samreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samreen-frontend&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [Portfolio Website](https://samreenzafar.github.io/)
+- 📧 Email: vvisionary77@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/visionary-ventures-6b1a97371/)
+
+---
