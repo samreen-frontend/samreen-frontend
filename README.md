@@ -35,7 +35,7 @@
 ## 🧠 Skills
 
 - ✅ HTML5 / CSS3
-- ✅ Laravel / PHP
+- ✅ Laravel 
 - ✅ MySQL / Git
 - ✅ Responsive Web Design
 - ✅ GitHub Collaboration
