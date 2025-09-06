@@ -6,7 +6,7 @@
 
 ## 🔎 About Me
 
-- 🔭 Currently doing an internship at **ID Logix** as a Laravel Developer  
+- 🔭 In 2025 doing an internship at **ID Logix** as a Laravel Developer  
 - 🌱 Improving my skills in **Laravel**  
 - 💬 Passionate about building clean and responsive user interfaces  
 - 💼 Open to **freelance projects** on platforms like Fiverr  
@@ -22,11 +22,11 @@
 
 ## 🚀 Projects
 
-- 
+- [Project # 01 ](https://github.com/samreen-frontend/Responsive-form)
 
--
+- [Project # 02 ](https://github.com/samreen-frontend/pizza-order-form)
 
-- 
+- [Project # 03 ](https://github.com/samreen-frontend/Expandable-hover-card)
 
 ---
 
@@ -49,6 +49,7 @@
 
 - 📧 Email: vvisionary77@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/visionary-ventures-6b1a97371/)
+- 💼 [Twitter](https://x.com/dev_samreen)
 
 ---
 
