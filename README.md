@@ -30,9 +30,9 @@
 
 ---
 
-## Documentation
+## Documentations
 
-- [Documentation # 01 HTML-Documentation ](https://github.com/samreen-frontend/HTML-Documentation)
+- [HTML-Documentation ](https://github.com/samreen-frontend/HTML-Documentation)
 
 ---
 
