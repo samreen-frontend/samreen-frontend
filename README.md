@@ -7,6 +7,7 @@
 ## 🔎 About Me
 
 🔭 Currently doing an internship at ID Logix (2025) as a Laravel Developer
+
 🌱 Improving my skills in Laravel, HTML, and CSS
 💬 Passionate about building clean, responsive, and user-friendly interfaces
 💼 Open to freelance projects on Fiverr (HTML, CSS, and Laravel)
