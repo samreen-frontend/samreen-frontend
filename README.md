@@ -92,6 +92,11 @@
 - 📧 Email: vvisionary77@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/visionary-ventures-6b1a97371/)
 - 💼 [Twitter](https://x.com/dev_samreen)
+- ## 🌐 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)  
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/YOUR_USERNAME)
 
 ---
 
