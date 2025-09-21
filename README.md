@@ -96,7 +96,7 @@ Frontend Developer | HTML & CSS | Building clean and responsive web projects.
 ## 📫 Connect With Me
 
 📧 **Email:** [vvisionary77@gmail.com](mailto:vvisionary77@gmail.com)  
-💼 **LinkedIn:** [samreen-zafar-ali-qamar](https://www.linkedin.com/in/samreen-zafar-ali-qamar-6b1a97371/)  
+💼 **LinkedIn:** [samreen-zafar-ali-qamar](https://www.linkedin.com/in/samreen-zafar-ali-qamar-6b1a97371/) 
 💻 **GitHub:** [samreen-frontend](https://github.com/samreen-frontend)  
 🎨 **CodePen:** [Visionary Ventures](https://codepen.io/Visionary-Ventures/pens/public?cursor=ZD0wJm89MSZwPTEmdj04NDAzMDExNA==)  
 🐦 **X / Twitter:** [dev_samreen](https://x.com/dev_samreen)  
