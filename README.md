@@ -109,6 +109,9 @@ Frontend Developer | HTML & CSS | Building clean and responsive web projects.
 
 💼 **Upwork:** [Profile](https://www.upwork.com/freelancers/~01f2046f69f60b4bdb)
 
+💼 **Freelancer:** [Profile](https://www.freelancer.com/u/visionaryv1)
+
+
 
 ---
 ---
