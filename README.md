@@ -51,7 +51,7 @@
 
 - [Project # 01 portfolio-html-css ](https://github.com/samreen-webstudio/portfolio-html-css)
 - [Project # 02 frontend-basics-practice ](https://github.com/samreen-webstudio/frontend-basics-practice)
-- [Project # ]()
+- [Project # 03 simple-landing-page ](https://github.com/samreen-webstudio/simple-landing-page)
 - [Project #  ]()
 - [Project #  ]()
 - [Project #  ]()
